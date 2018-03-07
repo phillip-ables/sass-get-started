@@ -6,17 +6,17 @@
 
 /* line 2, C:/Users/user/Desktop/code/css/sass-get-started/myproject/scss/base/_base.scss */
 body {
-  font-family: Georgia, sans-serif;
+  font-family: 'Georgia', sans-serif;
   font-size: 14px;
   color: #666;
-  line-height: 1.6em;
+  line-height: 1.5em;
   background: #f4f4f4;
 }
 
 /* line 10, C:/Users/user/Desktop/code/css/sass-get-started/myproject/scss/base/_base.scss */
 #container {
-  width: 960px;
-  margin: auto;
+  width: 860px;
+  margin: 20px auto;
   overflow: auto;
   border: #ccc solid 1px;
   background: #fff;
@@ -27,6 +27,12 @@ body {
 header {
   background: #003daa;
   color: #fff;
+  height: 90px;
+}
+
+/* line 25, C:/Users/user/Desktop/code/css/sass-get-started/myproject/scss/base/_base.scss */
+header h1 {
+  padding: 20px 0 0 10px;
 }
 
 /*# sourceMappingURL=../css/main.map */
