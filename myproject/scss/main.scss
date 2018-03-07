@@ -1,10 +1,8 @@
-<!--
-    no styles all imports
-    variables i would do first
--->
-@import 'base/_variable.scss';
+  //  no styles all imports
+  //  variables i would do first
+@import 'base/_variables.scss';
 @import 'base/_mixins.scss';
-@import 'base/_reser.scss';
+@import 'base/_reset.scss';
 @import 'base/_base.scss';
 
 @import 'layout/_header.scss';
