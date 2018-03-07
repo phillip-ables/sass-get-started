@@ -1,3 +1,9 @@
+/* line 2, C:/Users/user/Desktop/code/css/sass-get-started/myproject/scss/base/_reset.scss */
+* {
+  margin: 0;
+  padding: 0;
+}
+
 /* line 2, C:/Users/user/Desktop/code/css/sass-get-started/myproject/scss/base/_base.scss */
 body {
   font-family: Georgia, sans-serif;

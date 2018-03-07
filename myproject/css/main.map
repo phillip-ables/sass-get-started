@@ -18,7 +18,7 @@
 		"  //  no styles all imports\r\n  //  variables i would do first\r\n@import 'base/_variables.scss';\r\n@import 'base/_mixins.scss';\r\n@import 'base/_reset.scss';\r\n@import 'base/_base.scss';\r\n\r\n@import 'layout/_header.scss';\r\n@import 'layout/_footer.scss';\r\n\r\n@import 'modules/_typography.scss';\r\n@import 'modules/_buttons.scss';\r\n@import 'modules/_blocks.scss';\r\n@import 'modules/_components.scss';\r\n",
 		"",
 		"",
-		"",
+		"\r\n*{\r\n    margin: 0;\r\n    padding: 0;\r\n}",
 		"//put main body styles\r\nbody{\r\n    font-family: Georgia, sans-serif;\r\n    font-size: 14px;\r\n    color: #666;\r\n    line-height: 1.6em;\r\n    background: #f4f4f4;\r\n}\r\n\r\n#container{\r\n    width: 960px;\r\n    margin: auto;\r\n    overflow:auto;\r\n    border: #ccc solid 1px;\r\n    background: #fff;\r\n    border-radius: 5px;\r\n}\r\n\r\nheader{\r\n    background: #003daa;\r\n    color: #fff;\r\n}",
 		"",
 		"",
@@ -27,6 +27,6 @@
 		"",
 		""
 	],
-	"mappings": ";AICA,AAAA,IAAI,CAAA;EACA,WAAW,EAAE,mBAAoB;EACjC,SAAS,EAAE,IAAK;EAChB,KAAK,EAAE,IAAK;EACZ,WAAW,EAAE,KAAM;EACnB,UAAU,EAAE,OAAQ;CACvB;;;AAED,AAAA,UAAU,CAAA;EACN,KAAK,EAAE,KAAM;EACb,MAAM,EAAE,IAAK;EACb,QAAQ,EAAC,IAAK;EACd,MAAM,EAAE,cAAe;EACvB,UAAU,EAAE,IAAK;EACjB,aAAa,EAAE,GAAI;CACtB;;;AAED,AAAA,MAAM,CAAA;EACF,UAAU,EAAE,OAAQ;EACpB,KAAK,EAAE,IAAK;CACf",
+	"mappings": ";AGCA,AAAA,CAAC,CAAA;EACG,MAAM,EAAE,CAAE;EACV,OAAO,EAAE,CAAE;CACd;;;ACHD,AAAA,IAAI,CAAA;EACA,WAAW,EAAE,mBAAoB;EACjC,SAAS,EAAE,IAAK;EAChB,KAAK,EAAE,IAAK;EACZ,WAAW,EAAE,KAAM;EACnB,UAAU,EAAE,OAAQ;CACvB;;;AAED,AAAA,UAAU,CAAA;EACN,KAAK,EAAE,KAAM;EACb,MAAM,EAAE,IAAK;EACb,QAAQ,EAAC,IAAK;EACd,MAAM,EAAE,cAAe;EACvB,UAAU,EAAE,IAAK;EACjB,aAAa,EAAE,GAAI;CACtB;;;AAED,AAAA,MAAM,CAAA;EACF,UAAU,EAAE,OAAQ;EACpB,KAAK,EAAE,IAAK;CACf",
 	"names": []
 }
