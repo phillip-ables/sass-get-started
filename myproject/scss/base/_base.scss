@@ -25,3 +25,19 @@ header{
 header h1 {
     padding: 20px 0 0 10px;
 }
+
+nav {
+    height: 30px;
+    background: #000;
+    color: #fff;
+}
+
+nav li {
+    float: left;
+    padding: 0 20px 0 20px;
+
+}
+
+nav a {
+    color: #fff;
+}
