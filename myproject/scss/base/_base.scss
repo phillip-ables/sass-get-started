@@ -30,6 +30,7 @@ nav {
     height: 30px;
     background: #000;
     color: #fff;
+    padding-top: 10px;
 }
 
 nav li {
@@ -40,4 +41,13 @@ nav li {
 
 nav a {
     color: #fff;
+}
+
+section{
+    min-height: 200px;
+
+}
+
+footer {
+    text-align:center;
 }
