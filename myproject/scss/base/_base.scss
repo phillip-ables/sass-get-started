@@ -7,16 +7,15 @@ body{
     background: #f4f4f4;
 }
 
-#container{
+#container {
     width: 860px;
     margin: 20px auto;
     overflow: auto;
     border: #ccc solid 1px;
     background: #fff;
-    border-radius: 5px;
+    @include border-radius(10px);
 }
 
 section{
     min-height: 200px;
-
 }
