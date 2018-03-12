@@ -28,7 +28,7 @@ header h1 {
 
 nav {
     height: 30px;
-    background: #000;
+    background: $secondary-color;
     color: #fff;
     padding-top: 10px;
 }
@@ -50,4 +50,6 @@ section{
 
 footer {
     text-align:center;
+    padding: 20px;
+    background: $primary-color;
 }
