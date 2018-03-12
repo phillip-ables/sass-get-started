@@ -20,15 +20,15 @@
 		"$primary-color: #003daa;\r\n$secondary-color: #333333;",
 		"",
 		"\r\n*{\r\n    margin: 0;\r\n    padding: 0;\r\n}\r\n\r\nul, li {\r\n    list-style: none;\r\n}",
-		"//put main body styles\r\nbody{\r\n    font-family: 'Georgia', sans-serif;\r\n    font-size: 14px;\r\n    color: #666;\r\n    line-height: 1.5em;\r\n    background: #f4f4f4;\r\n}\r\n\r\n#container{\r\n    width: 860px;\r\n    margin: 20px auto;\r\n    overflow: auto;\r\n    border: #ccc solid 1px;\r\n    background: #fff;\r\n    border-radius: 5px;\r\n}\r\n\r\nheader{\r\n    background: $primary-color;\r\n    color: #fff;\r\n    height: 90px;\r\n}\r\n\r\nheader h1 {\r\n    padding: 20px 0 0 10px;\r\n}\r\n\r\nnav {\r\n    height: 30px;\r\n    background: $secondary-color;\r\n    color: #fff;\r\n    padding-top: 10px;\r\n}\r\n\r\nnav li {\r\n    float: left;\r\n    padding: 0 20px 0 20px;\r\n\r\n}\r\n\r\nnav a {\r\n    color: #fff;\r\n}\r\n\r\nsection{\r\n    min-height: 200px;\r\n\r\n}\r\n\r\nfooter {\r\n    text-align:center;\r\n    padding: 20px;\r\n    background: $primary-color;\r\n    color: #fff;\r\n}",
-		"",
-		"",
-		"",
+		"//put main body styles\r\nbody{\r\n    font-family: 'Georgia', sans-serif;\r\n    font-size: 14px;\r\n    color: #666;\r\n    line-height: 1.5em;\r\n    background: #f4f4f4;\r\n}\r\n\r\n#container{\r\n    width: 860px;\r\n    margin: 20px auto;\r\n    overflow: auto;\r\n    border: #ccc solid 1px;\r\n    background: #fff;\r\n    border-radius: 5px;\r\n}\r\n\r\nsection{\r\n    min-height: 200px;\r\n\r\n}",
+		"header {\r\n    background: $primary-color;\r\n    color: #fff;\r\n    height: 90px;\r\n}\r\n\r\nheader h1 {\r\n    padding: 20px 0 0 10px;\r\n}\r\n",
+		"nav {\r\n    height: 30px;\r\n    background: $secondary-color;\r\n    color: #fff;\r\n    padding-top: 10px;\r\n}\r\n\r\nnav li {\r\n    float: left;\r\n    padding: 0 20px 0 20px;\r\n}\r\n\r\nnav a {\r\n    color: #fff;\r\n}\r\n",
+		"footer {\r\n    text-align: center;\r\n    padding: 20px;\r\n    background: $primary-color;\r\n    color: #fff;\r\n}\r\n",
 		"",
 		"",
 		"",
 		""
 	],
-	"mappings": ";AGCA,AAAA,CAAC,CAAA;EACG,MAAM,EAAE,CAAE;EACV,OAAO,EAAE,CAAE;CACd;;;AAED,AAAA,EAAE,EAAE,AAAA,EAAE,CAAC;EACH,UAAU,EAAE,IAAK;CACpB;;;ACPD,AAAA,IAAI,CAAA;EACA,WAAW,EAAE,qBAAsB;EACnC,SAAS,EAAE,IAAK;EAChB,KAAK,EAAE,IAAK;EACZ,WAAW,EAAE,KAAM;EACnB,UAAU,EAAE,OAAQ;CACvB;;;AAED,AAAA,UAAU,CAAA;EACN,KAAK,EAAE,KAAM;EACb,MAAM,EAAE,SAAU;EAClB,QAAQ,EAAE,IAAK;EACf,MAAM,EAAE,cAAe;EACvB,UAAU,EAAE,IAAK;EACjB,aAAa,EAAE,GAAI;CACtB;;;AAED,AAAA,MAAM,CAAA;EACF,UAAU,EHnBE,OAAO;EGoBnB,KAAK,EAAE,IAAK;EACZ,MAAM,EAAE,IAAK;CAChB;;;AAED,AAAO,MAAD,CAAC,EAAE,CAAC;EACN,OAAO,EAAE,aAAc;CAC1B;;;AAED,AAAA,GAAG,CAAC;EACA,MAAM,EAAE,IAAK;EACb,UAAU,EH7BI,OAAO;EG8BrB,KAAK,EAAE,IAAK;EACZ,WAAW,EAAE,IAAK;CACrB;;;AAED,AAAI,GAAD,CAAC,EAAE,CAAC;EACH,KAAK,EAAE,IAAK;EACZ,OAAO,EAAE,aAAc;CAE1B;;;AAED,AAAI,GAAD,CAAC,CAAC,CAAC;EACF,KAAK,EAAE,IAAK;CACf;;;AAED,AAAA,OAAO,CAAA;EACH,UAAU,EAAE,KAAM;CAErB;;;AAED,AAAA,MAAM,CAAC;EACH,UAAU,EAAC,MAAO;EAClB,OAAO,EAAE,IAAK;EACd,UAAU,EHrDE,OAAO;EGsDnB,KAAK,EAAE,IAAK;CACf",
+	"mappings": ";AGCA,AAAA,CAAC,CAAA;EACG,MAAM,EAAE,CAAE;EACV,OAAO,EAAE,CAAE;CACd;;;AAED,AAAA,EAAE,EAAE,AAAA,EAAE,CAAC;EACH,UAAU,EAAE,IAAK;CACpB;;;ACPD,AAAA,IAAI,CAAA;EACA,WAAW,EAAE,qBAAsB;EACnC,SAAS,EAAE,IAAK;EAChB,KAAK,EAAE,IAAK;EACZ,WAAW,EAAE,KAAM;EACnB,UAAU,EAAE,OAAQ;CACvB;;;AAED,AAAA,UAAU,CAAA;EACN,KAAK,EAAE,KAAM;EACb,MAAM,EAAE,SAAU;EAClB,QAAQ,EAAE,IAAK;EACf,MAAM,EAAE,cAAe;EACvB,UAAU,EAAE,IAAK;EACjB,aAAa,EAAE,GAAI;CACtB;;;AAED,AAAA,OAAO,CAAA;EACH,UAAU,EAAE,KAAM;CAErB;;;ACrBD,AAAA,MAAM,CAAC;EACH,UAAU,EJDE,OAAO;EIEnB,KAAK,EAAE,IAAK;EACZ,MAAM,EAAE,IAAK;CAChB;;;AAED,AAAO,MAAD,CAAC,EAAE,CAAC;EACN,OAAO,EAAE,aAAc;CAC1B;;;ACRD,AAAA,GAAG,CAAC;EACA,MAAM,EAAE,IAAK;EACb,UAAU,ELDI,OAAO;EKErB,KAAK,EAAE,IAAK;EACZ,WAAW,EAAE,IAAK;CACrB;;;AAED,AAAI,GAAD,CAAC,EAAE,CAAC;EACH,KAAK,EAAE,IAAK;EACZ,OAAO,EAAE,aAAc;CAC1B;;;AAED,AAAI,GAAD,CAAC,CAAC,CAAC;EACF,KAAK,EAAE,IAAK;CACf;;;ACdD,AAAA,MAAM,CAAC;EACH,UAAU,EAAE,MAAO;EACnB,OAAO,EAAE,IAAK;EACd,UAAU,ENHE,OAAO;EMInB,KAAK,EAAE,IAAK;CACf",
 	"names": []
 }

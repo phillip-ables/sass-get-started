@@ -29,18 +29,23 @@ body {
 }
 
 /* line 19, C:/Users/user/Desktop/code/css/sass-get-started/myproject/scss/base/_base.scss */
+section {
+  min-height: 200px;
+}
+
+/* line 1, C:/Users/user/Desktop/code/css/sass-get-started/myproject/scss/layout/_header.scss */
 header {
   background: #003daa;
   color: #fff;
   height: 90px;
 }
 
-/* line 25, C:/Users/user/Desktop/code/css/sass-get-started/myproject/scss/base/_base.scss */
+/* line 7, C:/Users/user/Desktop/code/css/sass-get-started/myproject/scss/layout/_header.scss */
 header h1 {
   padding: 20px 0 0 10px;
 }
 
-/* line 29, C:/Users/user/Desktop/code/css/sass-get-started/myproject/scss/base/_base.scss */
+/* line 1, C:/Users/user/Desktop/code/css/sass-get-started/myproject/scss/layout/_nav.scss */
 nav {
   height: 30px;
   background: #333333;
@@ -48,23 +53,18 @@ nav {
   padding-top: 10px;
 }
 
-/* line 36, C:/Users/user/Desktop/code/css/sass-get-started/myproject/scss/base/_base.scss */
+/* line 8, C:/Users/user/Desktop/code/css/sass-get-started/myproject/scss/layout/_nav.scss */
 nav li {
   float: left;
   padding: 0 20px 0 20px;
 }
 
-/* line 42, C:/Users/user/Desktop/code/css/sass-get-started/myproject/scss/base/_base.scss */
+/* line 13, C:/Users/user/Desktop/code/css/sass-get-started/myproject/scss/layout/_nav.scss */
 nav a {
   color: #fff;
 }
 
-/* line 46, C:/Users/user/Desktop/code/css/sass-get-started/myproject/scss/base/_base.scss */
-section {
-  min-height: 200px;
-}
-
-/* line 51, C:/Users/user/Desktop/code/css/sass-get-started/myproject/scss/base/_base.scss */
+/* line 1, C:/Users/user/Desktop/code/css/sass-get-started/myproject/scss/layout/_footer.scss */
 footer {
   text-align: center;
   padding: 20px;

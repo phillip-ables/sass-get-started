@@ -16,41 +16,7 @@ body{
     border-radius: 5px;
 }
 
-header{
-    background: $primary-color;
-    color: #fff;
-    height: 90px;
-}
-
-header h1 {
-    padding: 20px 0 0 10px;
-}
-
-nav {
-    height: 30px;
-    background: $secondary-color;
-    color: #fff;
-    padding-top: 10px;
-}
-
-nav li {
-    float: left;
-    padding: 0 20px 0 20px;
-
-}
-
-nav a {
-    color: #fff;
-}
-
 section{
     min-height: 200px;
 
-}
-
-footer {
-    text-align:center;
-    padding: 20px;
-    background: $primary-color;
-    color: #fff;
 }
