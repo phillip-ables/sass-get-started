@@ -25,9 +25,9 @@ body {
   overflow: auto;
   border: #ccc solid 1px;
   background: #fff;
-  -webkit-border-radius: 10px;
-  -moz-border-radius: 10px;
-  border-radius: 10px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
 }
 
 /* line 19, C:/Users/user/Desktop/code/css/sass-get-started/myproject/scss/base/_base.scss */
@@ -42,7 +42,7 @@ header {
   height: 90px;
 }
 
-/* line 7, C:/Users/user/Desktop/code/css/sass-get-started/myproject/scss/layout/_header.scss */
+/* line 5, C:/Users/user/Desktop/code/css/sass-get-started/myproject/scss/layout/_header.scss */
 header h1 {
   padding: 20px 0 0 10px;
 }

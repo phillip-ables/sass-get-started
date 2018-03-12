@@ -13,7 +13,7 @@ body{
     overflow: auto;
     border: #ccc solid 1px;
     background: #fff;
-    @include border-radius(10px);
+    @include border-radius();
 }
 
 section{
